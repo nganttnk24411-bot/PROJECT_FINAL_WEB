@@ -1,0 +1,41 @@
+<categories>
+    <category>
+        <category_id>1</category_id>
+        <category_name>Rau lá</category_name>
+        <status>active</status>
+        <storage_guide>Rửa sạch, để ráo nước, bọc bằng khăn giấy rồi cho vào túi zip hoặc hộp kín, bảo quản trong ngăn mát tủ lạnh (3–5 ngày). Không để rau bị dập nát vì dễ bị úng, hỏng. Nên rửa rau kỹ với nước muối loãng hoặc nước rửa rau để loại bỏ dư lượng thuốc trừ sâu. Rau tươi ăn trong 2–3 ngày là tốt nhất.</storage_guide>
+        <suggestion>Canh rau dền nấu tôm, Rau muống xào tỏi, Salad rau trộn dầu giấm, Lẩu rau tổng hợp, Cải thìa xào nấm, Mồng tơi nấu mướp và cua đồng, Cải cúc nấu trứng.</suggestion>
+    </category>
+
+    <category>
+        <category_id>2</category_id>
+        <category_name>Củ, quả</category_name>
+        <status>active</status>
+        <storage_guide> Có nhiều cách để bảo quản các loại củ, quả được tươi lâu. Đầu tiên bạn phải loại bỏ hết các phần củ, quả đã dập úng hà hỏng, bạn có thể rửa củ, quả trước khi cho vào tủ để chế biến được nhanh nhưng hãy để rau thật khô ráo. Nếu muốn bảo quản lâu hơn, không nên rửa củ, quả trước khi cho vào tủ. Dùng các loại hộp chuyên dụng cho tủ lạnh để củ, quả được bảo quản tươi hơn. Với các loại củ có thể dùng giấy báo để quấn lại hoặc đặt ở bên ngoài bởi vì có một số loại củ như khoai lang, khoai tây,... không cần không khí lạnh. Lưu ý: Không nên cắt nhỏ củ, quả trước khi cho vào tủ lạnh bảo quản, đặt riêng các loại củ, quả và trái cây.</storage_guide>
+        <suggestion>Củ, quả luộc kho quẹt; Canh củ dền hầm xương; Củ cải trắng xào tôm; Thịt ba chỉ kho củ cải trắng</suggestion>
+    </category>
+
+    <category>
+        <category_id>3</category_id>
+        <category_name>Nấm các loại</category_name>
+        <status>active</status>
+        <storage_guide> Để chọn mua nấm tươi ngon bạn nên tiến hành lựa thật kỹ và lưu ý nên chọn nấm có màu sắc tươi không bị dập úng hay khô héo.  Bên cạnh đó không nên mua nấm có phần cuốn nấm bị thâm đen hoặc xuất hiện nếp nhăn. Đặc biệt, bạn cần phải quan sát thật kỹ phần thân nấm trước khi mua. Phần thân nấm phải cứng và không bị mềm nhũn hoặc úng nước. </storage_guide>
+        <suggestion> Nấm xào bò; Canh nấm kim châm; Nấm bào ngư kho chay; Nấm rơm kho đậu hũ; Nấu lẩu</suggestion>
+    </category>
+
+    <category>
+        <category_id>4</category_id>
+        <category_name>Trái cây</category_name>
+        <status>active</status>
+        <storage_guide>Chọn những quả không bị dập nát, không có vết sâu cũng như vỏ ngoài không bị trầy xước quá nhiều. Nên chọn những quả cầm chắc tay, chín đều có màu vàng và không chọn những quả cầm nhẹ tay hoặc có vỏ bị héo. Không nên chọn những quả có phần cuống rụng, bởi đó có thể là những quả cũ, lâu ngày. Những loại trái cây chín tự nhiên sẽ có mùi hương rất thơm, còn những quả bị ép chín hầu hết sẽ không có hương thơm. Để bảo quản tốt, trái cây khi mua về nên rửa sạch và để cho trái cây ráo hẳn nước. Nên đặt ở nơi thoáng mát, tránh ánh mặt trời hoặc nhiệt độ cao. Bạn cần phân loại trái cây sống và chín tách biệt riêng, không được đặt chúng chồng chéo lên nhau.</storage_guide>
+        <suggestion> Ăn tráng miệng, làm sinh tố, nước ép, trộn salad </suggestion>
+    </category>
+
+    <category>
+        <category_id>5</category_id>
+        <category_name>Hoa tươi</category_name>
+        <status>active</status>
+        <storage_guide> Thường xuyên chăm sóc, thay nước để hoa được tươi lâu hơn. Cắt tỉa cành hoa đúng cách. Đặt hoa ở nơi có ánh sáng. Cung cấp chất dinh dưỡng cho hoa. Rửa sạch lọ hoa trước khi cắm</storage_guide>
+        <suggestion> Trang trí nhà cửa, đám tiệc, sinh nhật</suggestion>
+    </category>
+</categories>

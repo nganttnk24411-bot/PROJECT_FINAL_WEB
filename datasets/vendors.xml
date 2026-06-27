@@ -1,0 +1,302 @@
+<vendors>
+    <vendor>
+        <vendor_id>1</vendor_id>
+        <user_id>101</user_id>
+        <vendor_name>Nông trại Vạn Thành Green</vendor_name>
+        <region>Lâm Đồng</region>
+        <address>Phường 5, Thành phố Đà Lạt, Tỉnh Lâm Đồng</address>
+        <certification>Hữu cơ, VietGAP</certification>
+        <rating>4.9</rating>
+        <review_count>142</review_count>
+        <description>Nông trại ứng dụng mô hình công nghiệp hiện đại, chuyên canh tác các loại rau xanh thủy canh sạch, cà chua bi và ớt chuông đạt chuẩn hữu cơ kiểm duyệt nghiêm ngặt.</description>
+        <vendor_image_url>https://tse1.mm.bing.net/th/id/OIP.W3Khs08NeD7rlzw6NQ6JVAHaFj?cb=thfvnextfalcon3&rs=1&pid=ImgDetMain&o=7&rm=3</vendor_image_url>
+        <status>approved</status>
+        <created_at>2026-01-15 08:30:00</created_at>
+        <updated_at>2026-06-20 14:15:22</updated_at>
+    </vendor>
+    <vendor>
+        <vendor_id>2</vendor_id>
+        <user_id>102</user_id>
+        <vendor_name>Hợp tác xã Nông nghiệp Cầu Đất</vendor_name>
+        <region>Lâm Đồng</region>
+        <address>Xã Xuân Trường, Thành phố Đà Lạt, Tỉnh Lâm Đồng</address>
+        <certification>GlobalGAP</certification>
+        <rating>4.8</rating>
+        <review_count>96</review_count>
+        <description>Đơn vị đi đầu trong việc trồng các dòng nấm cao cấp trong nhà kính tự động hóa, kết hợp vùng liên kết cắt cành cung ứng hoa tươi theo mùa.</description>
+        <vendor_image_url>https://mia.vn/media/uploads/blog-du-lich/kham-pha-cau-dat-farm-01-1703461596.jpeg</vendor_image_url>
+        <status>approved</status>
+        <created_at>2026-02-10 09:45:00</created_at>
+        <updated_at>2026-06-25 11:20:10</updated_at>
+    </vendor>
+    <vendor>
+        <vendor_id>3</vendor_id>
+        <user_id>103</user_id>
+        <vendor_name>Trang trại Dâu tây Tự Nhiên DaLat</vendor_name>
+        <region>Lâm Đồng</region>
+        <address>Đường Thánh Mẫu, Phường 7, Thành phố Đà Lạt, Tỉnh Lâm Đồng</address>
+        <certification>VietGAP</certification>
+        <rating>4.7</rating>
+        <review_count>115</review_count>
+        <description>Tọa lạc tại vùng trồng dâu lâu đời, trang trại chuyên cung cấp các giống dâu tây công nghệ cao, dâu bách thảo tươi ngon trực tiếp từ giàn treo sinh học đến tay người tiêu dùng.</description>
+        <vendor_image_url>https://farmtable.vn/assets/images/vendors/bunny_strawberries.jpg</vendor_image_url>
+        <status>approved</status>
+        <created_at>2026-03-01 07:15:00</created_at>
+        <updated_at>2026-06-18 16:40:05</updated_at>
+    </vendor>
+    <vendor>
+        <vendor_id>4</vendor_id>
+        <user_id>104</user_id>
+        <vendor_name>Nhà vườn Cây Ăn Trái Tây Nam Bộ</vendor_name>
+        <region>Tây Nam Bộ</region>
+        <address>Huyện Cái Bè, Tỉnh Tiền Giang</address>
+        <certification>VietGAP</certification>
+        <rating>4.8</rating>
+        <review_count>210</review_count>
+        <description>Hợp tác xã đại diện kết nối dòng nông sản vùng đồng bằng sông Cửu Long, cung ứng dưa leo tươi, chanh không hạt chất lượng số lượng dồi dào thặng dư ổn định trong ngày.</description>
+        <vendor_image_url>https://farmtable.vn/assets/images/vendors/tay_nam_bo_garden.jpg</vendor_image_url>
+        <status>approved</status>
+        <created_at>2025-11-20 10:00:00</created_at>
+        <updated_at>2026-06-26 09:30:12</updated_at>
+    </vendor>
+    <vendor>
+        <vendor_id>5</vendor_id>
+        <user_id>105</user_id>
+        <vendor_name>Nông trại Rau Thủy canh Đa Thiện</vendor_name>
+        <region>Lâm Đồng</region>
+        <address>Đường Mai Anh Đào, Phường 8, Thành phố Đà Lạt, Tỉnh Lâm Đồng</address>
+        <certification>Hữu cơ</certification>
+        <rating>4.9</rating>
+        <review_count>84</review_count>
+        <description>Hệ thống nhà kính chuyên trồng xà lách mỡ, xà lách Mỹ và các loại rau ăn lá cao cấp bằng phương pháp thủy canh tuần hoàn hồi lưu không hóa chất.</description>
+        <vendor_image_url>https://farmtable.vn/assets/images/vendors/da_thien_hydroponics.jpg</vendor_image_url>
+        <status>approved</status>
+        <created_at>2026-01-20 11:15:00</created_at>
+        <updated_at>2026-06-24 10:05:14</updated_at>
+    </vendor>
+    <vendor>
+        <vendor_id>6</vendor_id>
+        <user_id>106</user_id>
+        <vendor_name>Trang trại Biofresh Đà Lạt</vendor_name>
+        <region>Lâm Đồng</region>
+        <address>Khu du lịch Hồ Than Thở, Đường Hồ Xuân Hương, Phường 9, Thành phố Đà Lạt, Tỉnh Lâm Đồng</address>
+        <certification>GlobalGAP</certification>
+        <rating>4.9</rating>
+        <review_count>195</review_count>
+        <description>Nổi tiếng với quy trình canh tác dâu tây Pháp và dâu tằm theo tiêu chuẩn sinh học châu Âu độc quyền, không dùng thuốc bảo vệ thực vật.</description>
+        <vendor_image_url>https://farmtable.vn/assets/images/vendors/biofresh_dalat.jpg</vendor_image_url>
+        <status>approved</status>
+        <created_at>2025-09-12 14:20:00</created_at>
+        <updated_at>2026-06-25 15:30:45</updated_at>
+    </vendor>
+    <vendor>
+        <vendor_id>7</vendor_id>
+        <user_id>107</user_id>
+        <vendor_name>Hợp tác xã Thỏ và Rau An Toàn Đà Lạt</vendor_name>
+        <region>Lâm Đồng</region>
+        <address>Tự Phước, Phường 11, Thành phố Đà Lạt, Tỉnh Lâm Đồng</address>
+        <certification>VietGAP</certification>
+        <rating>4.6</rating>
+        <review_count>67</review_count>
+        <description>Mô hình vườn chuồng khép kín dùng phân bón hữu cơ vi sinh tự ủ để chuyên canh tác các loại củ cải trắng, của cải đỏ và cà rốt baby ngọt thịt.</description>
+        <vendor_image_url>https://farmtable.vn/assets/images/vendors/tho_rau_farm.jpg</vendor_image_url>
+        <status>approved</status>
+        <created_at>2026-04-05 08:00:00</created_at>
+        <updated_at>2026-06-22 09:12:30</updated_at>
+    </vendor>
+    <vendor>
+        <vendor_id>8</vendor_id>
+        <user_id>108</user_id>
+        <vendor_name>Nông trại Hữu cơ Organik Đơn Dương</vendor_name>
+        <region>Lâm Đồng</region>
+        <address>Thị trấn Thạnh Mỹ, Huyện Đơn Dương, Tỉnh Lâm Đồng</address>
+        <certification>Hữu cơ</certification>
+        <rating>5.0</rating>
+        <review_count>112</review_count>
+        <description>Đạt chứng nhận tiêu chuẩn hữu cơ quốc tế châu Âu và Mỹ, chuyên biệt cung ứng dòng rau súp lơ xanh, bắp cải tím và các loại củ quả ôn đới thượng hạng.</description>
+        <vendor_image_url>https://farmtable.vn/assets/images/vendors/organik_don_duong.jpg</vendor_image_url>
+        <status>approved</status>
+        <created_at>2025-08-24 16:45:00</created_at>
+        <updated_at>2026-06-26 13:55:00</updated_at>
+    </vendor>
+    <vendor>
+        <vendor_id>9</vendor_id>
+        <user_id>109</user_id>
+        <vendor_name>Nông trại Cà chua đen Langbiang</vendor_name>
+        <region>Lâm Đồng</region>
+        <address>Thị trấn Lạc Dương, Huyện Lạc Dương, Tỉnh Lâm Đồng</address>
+        <certification>VietGAP</certification>
+        <rating>4.8</rating>
+        <review_count>73</review_count>
+        <description>Nằm dưới chân núi Langbiang khí hậu mát mẻ quanh năm, chuyên trồng dòng sản phẩm độc bản cà chua đen giàu chất chống oxy hóa và cà chua trái cây.</description>
+        <vendor_image_url>https://farmtable.vn/assets/images/vendors/black_tomato_langbiang.jpg</vendor_image_url>
+        <status>approved</status>
+        <created_at>2026-02-18 10:30:00</created_at>
+        <updated_at>2026-06-19 11:24:18</updated_at>
+    </vendor>
+    <vendor>
+        <vendor_id>10</vendor_id>
+        <user_id>110</user_id>
+        <vendor_name>Tổ hợp tác sản xuất Nấm sạch LangBiang</vendor_name>
+        <region>Tây Nguyên</region>
+        <address>Xã Lát, Huyện Lạc Dương, Tỉnh Lâm Đồng</address>
+        <certification>VietGAP</certification>
+        <rating>4.7</rating>
+        <review_count>54</review_count>
+        <description>Chuyên gieo trồng và thu hoạch các dòng nấm tươi ăn lẩu như nấm bào ngư xám, nấm kim châm và nấm đùi gà theo công nghệ nuôi cấy phôi khép kín.</description>
+        <vendor_image_url>https://farmtable.vn/assets/images/vendors/mushroom_langbiang.jpg</vendor_image_url>
+        <status>approved</status>
+        <created_at>2026-03-11 13:10:00</created_at>
+        <updated_at>2026-06-20 16:50:22</updated_at>
+    </vendor>
+    <vendor>
+        <vendor_id>11</vendor_id>
+        <user_id>111</user_id>
+        <vendor_name>Trang trại Hoa tươi Hasfarm Đà Lạt</vendor_name>
+        <region>Lâm Đồng</region>
+        <address>Đường Hoàng Văn Thụ, Phường 5, Thành phố Đà Lạt, Tỉnh Lâm Đồng</address>
+        <certification>GlobalGAP</certification>
+        <rating>4.9</rating>
+        <review_count>320</review_count>
+        <description>Đơn vị trồng hoa quy mô công nghiệp lớn nhất, chuyên biệt cung ứng các dòng hoa tươi cắt cành như hoa cúc, hoa hồng, cẩm chướng tinh tuyển độ bền cao.</description>
+        <vendor_image_url>https://farmtable.vn/assets/images/vendors/hasfarm_dalat.jpg</vendor_image_url>
+        <status>approved</status>
+        <created_at>2025-05-10 07:00:00</created_at>
+        <updated_at>2026-06-26 17:10:55</updated_at>
+    </vendor>
+    <vendor>
+        <vendor_id>12</vendor_id>
+        <user_id>112</user_id>
+        <vendor_name>Hợp tác xã Trái cây Nhiệt đới Miền Đông</vendor_name>
+        <region>Đông Nam Bộ</region>
+        <address>Huyện Định Quán, Tỉnh Đồng Nai</address>
+        <certification>VietGAP</certification>
+        <rating>4.5</rating>
+        <review_count>148</review_count>
+        <description>Vùng liên kết trồng dưa lưới nhà màng và chuối nam mỹ đạt chuẩn xuất khẩu lớn, cung ứng nguồn hàng trái cây thặng dư dồi dào bình ổn giá.</description>
+        <vendor_image_url>https://farmtable.vn/assets/images/vendors/miendong_fruits.jpg</vendor_image_url>
+        <status>approved</status>
+        <created_at>2025-10-02 09:25:00</created_at>
+        <updated_at>2026-06-15 14:22:40</updated_at>
+    </vendor>
+    <vendor>
+        <vendor_id>13</vendor_id>
+        <user_id>113</user_id>
+        <vendor_name>Nông trại Trà và Hoa Cầu Đất Farm</vendor_name>
+        <region>Lâm Đồng</region>
+        <address>Thôn Cầu Đất, Xã Xuân Trường, Thành phố Đà Lạt, Tỉnh Lâm Đồng</address>
+        <certification>VietGAP</certification>
+        <rating>4.8</rating>
+        <review_count>165</review_count>
+        <description>Tận dụng thổ nhưỡng vùng cao, nông trại kết hợp trồng chè organic cùng phân khu hoa cẩm tú cầu, hoa hướng dương cắt cành tươi mới mỗi ngày.</description>
+        <vendor_image_url>https://farmtable.vn/assets/images/vendors/caudat_farm_tea.jpg</vendor_image_url>
+        <status>approved</status>
+        <created_at>2025-07-15 08:35:00</created_at>
+        <updated_at>2026-06-24 13:12:09</updated_at>
+    </vendor>
+    <vendor>
+        <vendor_id>14</vendor_id>
+        <user_id>114</user_id>
+        <vendor_name>Hợp tác xã Nông nghiệp Công nghệ cao Xuân Hương</vendor_name>
+        <region>Lâm Đồng</region>
+        <address>Phường 9, Thành phố Đà Lạt, Tỉnh Lâm Đồng</address>
+        <certification>VietGAP</certification>
+        <rating>4.6</rating>
+        <review_count>59</review_count>
+        <description>Tập hợp chuỗi nhà vườn chuyên trồng các loại rau ăn lá truyền thống như rau muống hạt, mồng tơi, cải ngọt phục vụ bữa ăn gia dịch đô thị.</description>
+        <vendor_image_url>https://farmtable.vn/assets/images/vendors/xuan_huong_coop.jpg</vendor_image_url>
+        <status>approved</status>
+        <created_at>2026-04-12 15:40:00</created_at>
+        <updated_at>2026-06-21 16:30:15</updated_at>
+    </vendor>
+    <vendor>
+        <vendor_id>15</vendor_id>
+        <user_id>115</user_id>
+        <vendor_name>Trang trại Rau hữu cơ Thiên Sinh</vendor_name>
+        <region>Lâm Đồng</region>
+        <address>Xã Tà Nung, Thành phố Đà Lạt, Tỉnh Lâm Đồng</address>
+        <certification>Hữu cơ</certification>
+        <rating>4.9</rating>
+        <review_count>92</review_count>
+        <description>Áp dụng phương pháp canh tác biodynamic bền vững của Nhật Bản, chuyên trồng bắp cải trái tim, mướp hương và củ su su giòn ngọt tự nhiên.</description>
+        <vendor_image_url>https://farmtable.vn/assets/images/vendors/thien_sinh_organic.jpg</vendor_image_url>
+        <status>approved</status>
+        <created_at>2026-01-05 10:20:00</created_at>
+        <updated_at>2026-06-25 08:44:12</updated_at>
+    </vendor>
+    <vendor>
+        <vendor_id>16</vendor_id>
+        <user_id>116</user_id>
+        <vendor_name>Hợp tác xã Nông sản sạch Đức Trọng</vendor_name>
+        <region>Lâm Đồng</region>
+        <address>Thị trấn Liên Nghĩa, Huyện Đức Trọng, Tỉnh Lâm Đồng</address>
+        <certification>VietGAP</certification>
+        <rating>4.7</rating>
+        <review_count>134</review_count>
+        <description>Vùng vựa củ lớn chuyên sản xuất và phân phối khoai tây ruột vàng vỏ mỏng, hành tây và bí đỏ hồ lô chất lượng cao sản lượng ổn định toàn quốc.</description>
+        <vendor_image_url>https://farmtable.vn/assets/images/vendors/duc_trong_coop.jpg</vendor_image_url>
+        <status>approved</status>
+        <created_at>2025-12-01 11:10:00</created_at>
+        <updated_at>2026-06-23 10:15:30</updated_at>
+    </vendor>
+    <vendor>
+        <vendor_id>17</vendor_id>
+        <user_id>117</user_id>
+        <vendor_name>Nông trại Dâu tây Nhật Bunny Farm</vendor_name>
+        <region>Lâm Đồng</region>
+        <address>Đường Măng Linh, Phường 7, Thành phố Đà Lạt, Tỉnh Lâm Đồng</address>
+        <certification>VietGAP</certification>
+        <rating>4.8</rating>
+        <review_count>78</review_count>
+        <description>Chuyên trồng giống dâu tây Hana xuất xứ Nhật Bản trên giàn giá thể cao cách mặt đất 1m, quả dâu ngọt đậm, chín mọng tự nhiên đạt chuẩn an toàn.</description>
+        <vendor_image_url>https://farmtable.vn/assets/images/vendors/bunny_farm_dalat.jpg</vendor_image_url>
+        <status>approved</status>
+        <created_at>2026-02-27 14:00:00</created_at>
+        <updated_at>2026-06-20 15:45:10</updated_at>
+    </vendor>
+    <vendor>
+        <vendor_id>18</vendor_id>
+        <user_id>118</user_id>
+        <vendor_name>Hợp tác xã Rau hoa giống mới Đà Lạt</vendor_name>
+        <region>Lâm Đồng</region>
+        <address>Phường 12, Thành phố Đà Lạt, Tỉnh Lâm Đồng</address>
+        <certification>VietGAP</certification>
+        <rating>4.6</rating>
+        <review_count>42</review_count>
+        <description>Chuyên khảo nghiệm và cung ứng các sản phẩm bông atisô tươi, hoa lily cắt cành phục vụ phân khúc trang trí và chăm sóc sức khỏe thảo dược.</description>
+        <vendor_image_url>https://farmtable.vn/assets/images/vendors/new_species_coop.jpg</vendor_image_url>
+        <status>approved</status>
+        <created_at>2026-05-02 09:15:00</created_at>
+        <updated_at>2026-06-18 10:20:55</updated_at>
+    </vendor>
+    <vendor>
+        <vendor_id>19</vendor_id>
+        <user_id>119</user_id>
+        <vendor_name>Trang trại Nấm linh chi &amp; Thảo dược Đà Lạt</vendor_name>
+        <region>Tây Nguyên</region>
+        <address>Xã Tà Nung, Thành phố Đà Lạt, Tỉnh Lâm Đồng</address>
+        <certification>Hữu cơ</certification>
+        <rating>4.9</rating>
+        <review_count>89</review_count>
+        <description>Ứng dụng kỹ thuật nuôi cấy nấm dược liệu, chuyên cung cấp dòng nấm đùi gà khổng lồ, nấm linh chi đỏ trồng hữu cơ dưới tán rừng nguyên sinh thông thoáng.</description>
+        <vendor_image_url>https://farmtable.vn/assets/images/vendors/lingzhi_mushroom_farm.jpg</vendor_image_url>
+        <status>approved</status>
+        <created_at>2025-11-05 13:50:00</created_at>
+        <updated_at>2026-06-22 14:10:12</updated_at>
+    </vendor>
+    <vendor>
+        <vendor_id>20</vendor_id>
+        <user_id>120</user_id>
+        <vendor_name>Hợp tác xã Cây ăn trái Đặc sản miền Tây</vendor_name>
+        <region>Tây Nam Bộ</region>
+        <address>Huyện Phong Điền, Thành phố Cần Thơ</address>
+        <certification>VietGAP</certification>
+        <rating>4.7</rating>
+        <review_count>156</review_count>
+        <description>Vùng chuyên canh trái cây nhiệt đới chất lượng cao, cung cấp xoài cát hòa lộc, dưa leo vi sạch và chanh quả mọng nước thặng dư cuối ngày giá rẻ.</description>
+        <vendor_image_url>https://farmtable.vn/assets/images/vendors/mientay_specialty_fruits.jpg</vendor_image_url>
+        <status>approved</status>
+        <created_at>2025-06-18 16:12:00</created_at>
+        <updated_at>2026-06-26 16:25:36</updated_at>
+    </vendor>
+</vendors>
